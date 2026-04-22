@@ -1,4 +1,4 @@
-package com.example;
+depackage com.example;
 
 /**
  * This is a class.
@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Hello and welcome to the Java program class  !!!");
+	  System.out.println("Hello from Main Method & Hello and welcome to the Java program class  !!! mofified code");
   }
 	
 }
